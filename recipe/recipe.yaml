@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.3.3"
+  version: "0.3.4"
 
 package:
   name: lomond
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/lomond/lomond-${{ version }}.tar.gz
-  sha256: 427936596b144b4ec387ead99aac1560b77c8a78107d3d49415d3abbe79acbd3
+  sha256: 250202a83ba45e3b265bf5dfef4db54d9c46b981230579dbe3b453dad320ba71
 
 build:
   number: 0
